@@ -15,5 +15,9 @@ Add this or similar block to your code
 ### Development
 
 ```bash
-$ 
+$ poetry install
+$ poetry build
+
+$ poetry config pypi-token.pypi my-token
+$ poetry publish
 ```
