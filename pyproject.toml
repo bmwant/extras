@@ -1,15 +1,14 @@
 [tool.poetry]
 name = "package-extras"
-version = "0.1.0"
+version = "0.2.0"
 description = "Dummy package to mark extras installation"
 authors = ["Misha Behersky <bmwant@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "extras"}]
+packages = [{include = "package_extras"}]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-
 
 [build-system]
 requires = ["poetry-core"]
