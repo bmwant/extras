@@ -1,5 +1,10 @@
 ## extras
 
+[![PyPI](https://img.shields.io/pypi/v/package-extras)](https://pypi.org/project/package-extras/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/package-extras)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![EditorConfig](https://img.shields.io/badge/-EditorConfig-lightgrey?logo=editorconfig)](https://editorconfig.org/)
+
 Package that allows to make assertions about [extras](https://packaging.python.org/en/latest/tutorials/installing-packages/#installing-extras) being installed or not.
 
 For the detailed explanation read [this blog post](#).
