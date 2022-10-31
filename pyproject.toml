@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "package-extras"
-version = "0.2.0"
+version = "0.3.0"
 description = "Dummy package to mark extras installation"
 authors = ["Misha Behersky <bmwant@gmail.com>"]
 license = "MIT"
