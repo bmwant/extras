@@ -7,7 +7,7 @@
 
 Package that allows to make assertions about [extras](https://packaging.python.org/en/latest/tutorials/installing-packages/#installing-extras) being installed or not.
 
-For the detailed explanation read [this blog post](#).
+For the detailed explanation read [this blog post](https://bmwlog.pp.ua/deprecation-of-package-extras/).
 
 ### Usage
 
